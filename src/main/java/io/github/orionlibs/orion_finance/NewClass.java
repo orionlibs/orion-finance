@@ -2,9 +2,7 @@ package io.github.orionlibs.orion_finance;
 
 import java.util.logging.Handler;
 import java.util.logging.Logger;
-import lombok.NoArgsConstructor;
 
-@NoArgsConstructor
 public class NewClass
 {
     private final static Logger log;
